@@ -31,7 +31,7 @@ See AES Result.pdf for final result.
 ## Preprocessing
 
 * Punctuation cleaning
-* Name/Location index replace
+* Name/Location indexer replace
 * tokenize sentences to words with nltk.word_tokenize
 * tokenize essays to sentences
 * Normalize scores to 0-1
